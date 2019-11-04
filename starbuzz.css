@@ -23,6 +23,8 @@ div#tableRow {
     display: table-cell;
     background: #efe5d0;
     padding: 15px;
+    width: 20%;
+    vertical-align: top;
 }
 
 #main {
