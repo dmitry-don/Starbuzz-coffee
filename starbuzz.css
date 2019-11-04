@@ -10,6 +10,12 @@ body {
     height: 108px;
 }
 
+#coupon {
+    position: fixed;
+    top: 350px;
+    left: 0px;
+}
+
 #award {
     position: absolute;
     top: 30px;
